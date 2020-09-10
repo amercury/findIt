@@ -1,0 +1,19 @@
+.List {
+    width: 270px;
+    height: auto;
+    margin-top: 2px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.List span {
+    width: 100px;
+    text-overflow: ellipsis;
+    height: 33px;
+    margin: 10px;
+    font-size: 0.7rem;
+    white-space: nowrap;
+}
